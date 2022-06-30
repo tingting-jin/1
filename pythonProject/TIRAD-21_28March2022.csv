@@ -1,0 +1,15 @@
+item,ioc_type,handler,_timestamp,severity,confidence,mal_families,threat_category,status,labels
+db[.]testyk[.]com,DOMAIN,雷文,2022/2/17,3,2,"['MLXG','Spicy Hot Pot']",['malware hosting'],1,"['MLXG', '麻辣香锅病毒']"
+pz[.]w7q[.]net,DOMAIN,雷文,2022/2/17,1,2,[],['Hack Tool'],1,['老裁缝激活工具']
+softd[.]kknmn[.]com,DOMAIN,雷文,2022/2/17,3,2,[],['Rootkit'],1,['RootKit']
+testjj[.]com,DOMAIN,雷文,2022/2/17,1,2,"['MLXG', 'Spicy Hot Pot']",['malware hosting'],1,"['MLXG', '麻辣香锅病毒']"
+fwqyz[.]3322[.]org,DOMAIN,雷文,2022/2/17,1,2,['Nitol'],['Botnet'],1,['Nitol僵尸网络']
+nasufmutlu[.]com,DOMAIN,雷文,2022/2/17,3,2,[],['Botnet'],1,['smokeloader']
+v[.]beahh[.]com,DOMAIN,雷文,2022/2/17,3,2,[],['Coin Miner'],1,"['Lemonduck', '驱动人生']"
+dh[.]alyun[.]cn,DOMAIN,雷文,2022/2/17,1,2,[],['General Malware'],1,['老裁缝激活工具']
+uehge4g6gh[.]2ihsfa[.]com,DOMAIN,雷文,2022/2/17,3,2,[],['malware hosting'],1,['毒群家族']
+gou[.]33ysw[.]com,DOMAIN,雷文,2022/2/17,1,2,[],['Trojan'],1,['MpKsl']
+du[.]testjj[.]com,DOMAIN,雷文,2022/2/17,3,2,"['MLXG','Spicy Hot Pot']",['malware hosting'],1,"['MLXG', '麻辣香锅病毒']"
+0922[.]ddns[.]net,DOMAIN,雷文,2022/2/17,1,2,[],['Trojan'],1,['DarkComet']
+tra03[.]t3ded[.]com,DOMAIN,雷文,2022/2/17,1,2,[],['Trojan'],1,['begcbug']
+y[.]szmr[.]org,DOMAIN,雷文,2022/2/17,3,2,[],['General Malware'],1,['CAD盗图团伙']
